@@ -27,7 +27,7 @@
     "lodash.isequal": "^4.5.0",
     "react-dom": "^16.10.2",
     "react-leaflet": "^2.6.1",
-    "react-native-webview": "10.7.0"
+    "react-native-webview": "^10.7.0"
   },
   "peerDependencies": {
     "react": "^16.9.0",
