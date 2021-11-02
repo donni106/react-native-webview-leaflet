@@ -20,19 +20,19 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "expo-asset": "^7.0.0",
-    "expo-asset-utils": "^1.2.0",
-    "expo-file-system": "^8.0.0",
+    "expo-asset": "~8.4.3",
+    "expo-asset-utils": "^3.0.0",
+    "expo-file-system": "^13.0.3",
     "leaflet": "^1.5.1",
     "lodash.isequal": "^4.5.0",
     "react-dom": "^16.10.2",
     "react-leaflet": "^2.6.1",
-    "react-native-webview": "11.6.2"
+    "react-native-webview": "11.13.0"
   },
   "peerDependencies": {
     "react": "^16.9.0",
     "react-leaflet": "^2.6.1",
-    "react-native": "^0.61.2"
+    "react-native": "0.64.2"
   },
   "devDependencies": {
     "@babel/core": "^7.0.0-0",
