@@ -40,6 +40,7 @@ const WebViewLeafletView = ({
     >
       {webviewContent && (
         <WebView
+          androidHardwareAccelerationDisabled
           containerStyle={{
             flex: 0,
             height: '100%',

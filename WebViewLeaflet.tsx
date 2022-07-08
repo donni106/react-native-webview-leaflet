@@ -1,6 +1,6 @@
 import * as React from "react";
 import { WebView } from "react-native-webview";
-import AssetUtils from "expo-asset-utils";
+import * as AssetUtils from "expo-asset-utils";
 import { Asset } from "expo-asset";
 import WebViewLeafletView from "./WebViewLeaflet.view";
 import {
